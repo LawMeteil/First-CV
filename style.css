@@ -20,3 +20,12 @@ img {
     top: 55px;
     font-style: italic;
 }
+
+.skills {
+    background-color:#80acf2;
+    color:white;
+}
+
+.term {
+    font-weight: bold;
+}
