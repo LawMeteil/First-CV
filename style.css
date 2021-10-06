@@ -2,10 +2,21 @@ img {
     width: 150px;
     height: 200px;
 }
-.name {
+
+.div {
     font-size: 20px;
+}
+
+.name {
     color: red;
     position:absolute;
     right: 80px;
     top: 20px;
+}
+
+.home {
+    position:absolute;
+    right: 80px;
+    top: 55px;
+    font-style: italic;
 }
