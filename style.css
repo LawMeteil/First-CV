@@ -24,8 +24,15 @@ img {
 .skills {
     background-color:#80acf2;
     color:white;
+    width: auto;
 }
 
 .term {
     font-weight: bold;
+}
+
+.exp {
+    background-color:#bef17f;
+    color:white;
+    width: auto;
 }
