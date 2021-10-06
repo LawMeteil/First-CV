@@ -2,3 +2,10 @@ img {
     width: 150px;
     height: 200px;
 }
+.name {
+    font-size: 20px;
+    color: red;
+    position:absolute;
+    right: 80px;
+    top: 20px;
+}
